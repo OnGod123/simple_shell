@@ -1,4 +1,5 @@
 #include "main.h"
+char *_lstrip(char *str);
 
 /**
  * command_exists - searches for PATH dir containing command

@@ -1,4 +1,5 @@
 #include "main.h"
+int env_path(char *envp[]);
 
 /**
  * main - entry point of the program
